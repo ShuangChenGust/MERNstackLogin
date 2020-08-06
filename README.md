@@ -4,7 +4,11 @@ Techniques:（Backend: NodeJs, MongoDB, Express.Js, Jwt, Mongoose, Passport） F
 
 #Result Screenshot
 Homepage
-
+![image](https://github.com/ShuangChenGust/MERNstackLogin/blob/master/client/src/homepage.png)
+Postman Test of exist users
+![image](https://github.com/ShuangChenGust/MERNstackLogin/blob/master/client/src/testexist.png)
+Test Login 
+![image](https://github.com/ShuangChenGust/MERNstackLogin/blob/master/client/src/test.png)
 
 
 #Blog
