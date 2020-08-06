@@ -14,7 +14,7 @@ class Landing extends Component {
   render() {
     return (
   
-      <div style={{ height: "90vh" }} className="container valign-wrapper">
+      <div style={{ height: "65vh" }} className="container valign-wrapper">
         <div className="row" style = {sectionStyle}>
           <div className="col s12 center-align">
             <h4>

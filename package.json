@@ -15,6 +15,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/react-fontawesome": "^0.1.11",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "concurrently": "^5.2.0",
@@ -24,6 +27,8 @@
     "mongoose": "^5.9.25",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
+    "react-icons": "^3.10.0",
+    "react-materialize": "^3.9.2",
     "validator": "^13.1.1"
   }
 }
