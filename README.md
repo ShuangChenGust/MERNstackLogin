@@ -14,4 +14,4 @@ Test Login
 #Blog
 Introduce the design procedures of project
 
-![](http://img.shields.io/travis/{ShuangChenGust}/{Login}.svg)
+![](https://img.shields.io/badge/React-Login-green)
