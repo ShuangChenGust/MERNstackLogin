@@ -13,7 +13,7 @@ class Foot extends Component {
             <div className>
                 <Footer
                     copyrights= {
-                        `Health Link \u00A9 2019`
+                        `MERN Login \u00A9 2020`
                     }
                     // moreLinks={<a />}
                     links={
