@@ -1,0 +1,11 @@
+.container {
+    text-align: center;
+    /* background-image: url(../src/login.png); */
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    /* position: absolute; */
+    top: 0px;
+    bottom: 0px;
+  };
+.body{margin:0;}
